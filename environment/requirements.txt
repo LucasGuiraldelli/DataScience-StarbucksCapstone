@@ -21,3 +21,4 @@ numpy
 matplotlib
 scikit-learn
 datetime
+ipykernel
