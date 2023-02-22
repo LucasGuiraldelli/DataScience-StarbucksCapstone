@@ -16,6 +16,8 @@ To install the dependencies use the following command:
 
 **pip install -r ././environment/requirements.txt**
 
+NOTE: some libraries request python>=3.7, in this project I used python 3.8 by pattern of gitpod 
+
 
 ## Dataset overview
 * The program used to create the data simulates how people make purchasing decisions and how those decisions are influenced by promotional offers.
